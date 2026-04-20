@@ -1,0 +1,11 @@
+{
+  "name": "alphaedge",
+  "version": "1.0.0",
+  "description": "Options swing trading decision tool — Alpha Vantage + Polygon + Supabase",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.39.3"
+  }
+}
